@@ -88,5 +88,5 @@ Feel free to contact me about any problems you are facing. I will try to help as
 
 ## About My Github
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAS-ENNAQADI&theme=blue-green" alt="anas-ennaqadi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ANAS-ENNAQADI&theme=blue-green" alt="anas-ennaqadi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-en-naqadi&theme=blue-green" alt="anas-ennaqadi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anas-en-naqadi&theme=blue-green" alt="anas-ennaqadi" />
