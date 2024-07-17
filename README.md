@@ -24,6 +24,8 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 
 ## Frameworks, Platforms and Libraries
 ![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=35495E)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-35495E?style=for-the-badge&logo=primevue&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
