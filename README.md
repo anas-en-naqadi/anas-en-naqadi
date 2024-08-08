@@ -6,6 +6,10 @@ I am ANAS, I’m a Full Stack developer who’s building unique websites and alw
 
 You can check out some of my projects and if you have any questions you can reach out via the links below.
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-en-naqadi-5800b722b/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anas.ennaqadi0@gmail.com)](mailto:anas.ennaqadi0@gmail.com)
+
+
 ## 💫 What programming languages I like
 
 As a fullstack developer, I prioritize most of my time on JavaScript and PHP.
@@ -102,6 +106,4 @@ Feel free to contact me about any problems you are facing. I will try to help as
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-en-naqadi&theme=blue-green" alt="anas-ennaqadi" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anas-en-naqadi&theme=blue-green" alt="anas-ennaqadi" />
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-en-naqadi-5800b722b/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anas.ennaqadi0@gmail.com)](mailto:anas.ennaqadi0@gmail.com)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANAS-ENNAQADI)
+
